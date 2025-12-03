@@ -1,0 +1,16 @@
+[
+  {
+    "id": "h1",
+    "statement": "ROAS decreased over time, possibly due to creative fatigue or audience saturation.",
+    "mechanism": "Later dates show lower average ROAS than earlier dates, while spend stays similar.",
+    "expected_signals": "Declining ROAS and CTR for the same creative_message or audience_type.",
+    "confidence": "medium",
+    "evaluated": {
+      "id": "h1",
+      "statement": "ROAS decreased over time, possibly due to creative fatigue or audience saturation.",
+      "validation_result": "supported",
+      "confidence_score": 0.8,
+      "evidence": "Average ROAS decreased from 3.75 to 2.57."
+    }
+  }
+]

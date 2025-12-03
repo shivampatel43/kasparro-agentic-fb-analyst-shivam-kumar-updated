@@ -1,0 +1,22 @@
+random_seed: 42
+
+data:
+  path: "data/sample_fb_ads.csv"
+  date_column: "date"
+  sample_mode: true
+
+thresholds:
+  low_ctr: 0.01           # 1%
+  low_roas: 1.0
+  high_roas: 4.0
+
+retry:
+  max_attempts: 3
+  base_delay: 0.2   # seconds
+  backoff_factor: 2.0
+
+paths:
+  insights_json: "reports/insights.json"
+  creatives_json: "reports/creatives.json"
+  report_md: "reports/report.md"
+  log_file: "logs/app.log"

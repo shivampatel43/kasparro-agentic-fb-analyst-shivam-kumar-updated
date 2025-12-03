@@ -1,0 +1,20 @@
+[
+  {
+    "campaign_name": "Spring Sale",
+    "adset_name": "Spring Prospecting",
+    "old_message": "New season, new styles",
+    "new_headline": "Spring Sale: Limited time offer",
+    "new_primary_text": "New season, new styles Now with special pricing for prospecting.",
+    "new_cta": "Shop now",
+    "rationale": "Existing message appears to underperform on CTR/ROAS. Headline emphasises urgency, body text adds value, CTA is explicit."
+  },
+  {
+    "campaign_name": "Low CTR Test",
+    "adset_name": "Cold Test",
+    "old_message": "Buy now",
+    "new_headline": "Low CTR Test: Limited time offer",
+    "new_primary_text": "Buy now Now with special pricing for prospecting.",
+    "new_cta": "Shop now",
+    "rationale": "Existing message appears to underperform on CTR/ROAS. Headline emphasises urgency, body text adds value, CTA is explicit."
+  }
+]

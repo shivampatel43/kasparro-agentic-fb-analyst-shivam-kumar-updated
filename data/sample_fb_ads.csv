@@ -1,0 +1,8 @@
+campaign_name,adset_name,date,spend,impressions,clicks,ctr,purchases,revenue,roas,creative_type,creative_message,audience_type,platform,country
+Spring Sale,Spring Remarketing,2024-03-01,100,10000,200,0.02,10,500,5.0,video,"Fresh looks for spring",retargeting,facebook,US
+Spring Sale,Spring Prospecting,2024-03-01,80,8000,96,0.012,5,200,2.5,static,"New season, new styles",prospecting,facebook,US
+Spring Sale,Spring Remarketing,2024-03-15,120,11000,165,0.015,7,350,2.9167,video,"Fresh looks for spring",retargeting,facebook,US
+Spring Sale,Spring Prospecting,2024-03-15,90,9000,72,0.008,3,120,1.3333,static,"New season, new styles",prospecting,facebook,US
+Summer Launch,Summer Broad,2024-04-01,150,15000,300,0.02,12,600,4.0,video,"Beat the heat with our new range",broad,facebook,US
+Summer Launch,Summer Broad,2024-04-15,140,16000,208,0.013,8,360,2.5714,video,"Beat the heat with our new range",broad,facebook,US
+Low CTR Test,Cold Test,2024-04-10,50,10000,20,0.002,1,40,0.8,static,"Buy now",prospecting,facebook,US
